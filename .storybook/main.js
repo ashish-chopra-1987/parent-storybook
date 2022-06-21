@@ -29,6 +29,11 @@ module.exports = {
       title: 'Child Example',
       url: 'https://main--62b1557051c261c323ffae51.chromatic.com/',
       expanded: false,
-    }
+    },
+    'child-storybook-metadata': {
+      title: 'Child Storybook Example',
+      url: 'https://62b1b9ef50b3e0e9a6b8b90f-hwmhdbjzfg.chromatic.com/',
+      expanded: false,
+    },
   },
 };
