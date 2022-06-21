@@ -20,10 +20,10 @@ module.exports = {
       url: "https://5ccbc373887ca40020446347-yldsqjoxzb.chromatic.com",
       expanded: false // optional, true by default
     },
-    'task': {
-      title: 'Sample 1 - Task A',
-      url: 'https://ashish-chopra-1987.github.io/childStorybook/',
-      expanded: false,
-    }
+    // 'task': {
+    //   title: 'Sample 1 - Task A',
+    //   url: 'https://ashish-chopra-1987.github.io/childStorybook/',
+    //   expanded: false,
+    // }
   },
 };
