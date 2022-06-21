@@ -24,6 +24,11 @@ module.exports = {
       title: 'Sample 1 - Task A',
       url: 'https://ashish-chopra-1987.github.io/childStorybook/',
       expanded: false,
+    },
+    'child-storybook': {
+      title: 'Child Example',
+      url: 'https://62b1557051c261c323ffae51-harouwurpk.chromatic.com/',
+      expanded: false,
     }
   },
 };
