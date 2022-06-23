@@ -32,7 +32,7 @@ module.exports = {
     },
     'child-storybook-metadata': {
       title: 'Child Storybook Example',
-      url: 'https://62b1b9ef50b3e0e9a6b8b90f-lmineerpoo.chromatic.com/',
+      url: 'https://f0d961eaffab3f0f3378a338251ebaa0d3cdd9ad--62b1b9ef50b3e0e9a6b8b90f.chromatic.com/',
       expanded: false,
     },
   },
